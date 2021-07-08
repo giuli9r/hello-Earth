@@ -3,4 +3,4 @@ first one
 
 A simple edition for educational purpose.
 
-$silvio Dante$
+*silvio Dante*
